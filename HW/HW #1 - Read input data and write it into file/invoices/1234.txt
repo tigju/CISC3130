@@ -1,0 +1,9 @@
+John Jones          1234
+
+		Previous Balance              $100.00
+
+0001		TU-200    (qty 2)		  $600.0
+0002		R-110     (qty 1)		  $250.0
+0003		payment                   $100.00
+
+		Balance Due                   $850.0

@@ -1,0 +1,11 @@
+Customers
+1234,John Jones          ,100.00
+1235,Ray Palmer          ,500.00
+1236,Wally West          ,700.00
+1237,Oliver Queen        ,1000.00
+1238,Barry Allen         ,345.00
+1239,Kara Denvers        ,250.00
+1240,Roy Harper          ,2000.00
+1241,Felicity Smoak      ,900.00
+1242,Sara Lance          ,600.00
+1243,Damien Darhk        ,2345.00

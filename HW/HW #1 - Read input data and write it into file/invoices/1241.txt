@@ -1,0 +1,11 @@
+Felicity Smoak      1241
+
+		Previous Balance              $900.00
+
+0100		Vista     (qty 2) -10%	  $270.0
+0101		R-110     (qty 3)		  $750.0
+0102		INT-45    (qty 1)		  $50.0
+0103		R-110     (qty 2)		  $500.0
+0104		TU-200    (qty 1)		  $300.0
+
+		Balance Due                   $2770.0

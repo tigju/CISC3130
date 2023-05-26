@@ -1,0 +1,7 @@
+Unknown Customer    1244
+
+		Previous Balance              $0
+
+1415		R-110     (qty 1)		  $250.0
+
+		Balance Due                   $250.0

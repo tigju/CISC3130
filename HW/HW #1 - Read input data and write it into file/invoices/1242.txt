@@ -1,0 +1,10 @@
+Sara Lance          1242
+
+		Previous Balance              $600.00
+
+1010		Tri-1     (qty 4) -20%	  $640.0
+1011		GH-2      (qty 1)		  $750.0
+1012		R-110     (qty 1)		  $250.0
+1013		payment                   $400.00
+
+		Balance Due                   $1840.0

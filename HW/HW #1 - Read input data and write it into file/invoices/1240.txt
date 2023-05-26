@@ -1,0 +1,7 @@
+Roy Harper          1240
+
+		Previous Balance              $2000.00
+
+0007		payment  +25% ($500.0)	  $2000.00
+
+		Balance Due                   $-500.0

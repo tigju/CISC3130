@@ -1,0 +1,152 @@
+Receipt from Manufacturer:
+--------------------------
+Received Oak, quantity: 150, price: $3.00
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Cherry, quantity: 130, price: $5.00
+======================================================
+
+Order from customer:
+--------------------
+145 Widgets of Oak wood Sold
+145 at $3.0 each    Sales: $435.0
+Total: $435.0
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Oak, quantity: 50, price: $6.00
+======================================================
+
+Order from customer:
+--------------------
+75 Widgets of Cherry wood Sold
+75 at $5.0 each    Sales: $375.0
+Total: $375.0
+======================================================
+
+Order from customer:
+--------------------
+55 Widgets of Oak wood Sold
+5 at $3.0 each    Sales: $15.0
+50 at $6.0 each    Sales: $300.0
+Total: $315.0
+Remainder of 125 pieces of Oak wood not available
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Cherry, quantity: 50, price: $7.00
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Cherry, quantity: 30, price: $8.00
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Oak, quantity: 40, price: $9.00
+======================================================
+
+PROMO: Next customer gets 30% discount
+========================
+Order from customer:
+--------------------
+50 Widgets of Cherry wood Sold
+50 at $5.0 each    Sales: $250.0
+Discount: -30% Total: $175.0
+======================================================
+
+Order from customer:
+--------------------
+30 Widgets of Oak wood Sold
+30 at $9.0 each    Sales: $270.0
+Total: $270.0
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Cherry, quantity: 50, price: $10.00
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Oak, quantity: 265, price: $11.00
+======================================================
+
+Order from customer:
+--------------------
+60 Widgets of Oak wood Sold
+10 at $9.0 each    Sales: $90.0
+50 at $11.0 each    Sales: $550.0
+Total: $640.0
+======================================================
+
+PROMO: Next customer gets 50% discount
+========================
+Order from customer:
+--------------------
+100 Widgets of Oak wood Sold
+100 at $11.0 each    Sales: $1100.0
+Discount: -50% Total: $550.0
+======================================================
+
+Order from customer:
+--------------------
+70 Widgets of Cherry wood Sold
+5 at $5.0 each    Sales: $25.0
+50 at $7.0 each    Sales: $350.0
+15 at $8.0 each    Sales: $120.0
+Total: $495.0
+======================================================
+
+Order from customer:
+--------------------
+115 Widgets of Oak wood Sold
+115 at $11.0 each    Sales: $1265.0
+Total: $1265.0
+Remainder of 60 pieces of Oak wood not available
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Cherry, quantity: 40, price: $13.00
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Oak, quantity: 75, price: $15.00
+======================================================
+
+Order from customer:
+--------------------
+50 Widgets of Oak wood Sold
+50 at $15.0 each    Sales: $750.0
+Total: $750.0
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Cherry, quantity: 30, price: $16.00
+======================================================
+
+Receipt from Manufacturer:
+--------------------------
+Received Oak, quantity: 40, price: $18.00
+======================================================
+
+Remaining inventory:
+--------------------
+
+Inventory of Oak wood:
+Quantity:  25 Price:  $15.00
+Quantity:  40 Price:  $18.00
+
+Inventory of Cherry wood:
+Quantity:  15 Price:  $8.00
+Quantity:  50 Price:  $10.00
+Quantity:  40 Price:  $13.00
+Quantity:  30 Price:  $16.00

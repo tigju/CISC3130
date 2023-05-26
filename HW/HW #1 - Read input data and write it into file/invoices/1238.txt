@@ -1,0 +1,12 @@
+Barry Allen         1238
+
+		Previous Balance              $345.00
+
+0011		Vista     (qty 5) -10%	  $675.0
+0012		TU-200    (qty 1)		  $300.0
+0013		R-110     (qty 2)		  $500.0
+0014		INT-45    (qty 3)		  $150.0
+0015		GH-2      (qty 4)		  $3000.0
+0010		payment                   $200.00
+
+		Balance Due                   $4770.0

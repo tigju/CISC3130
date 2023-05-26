@@ -1,0 +1,143 @@
+My Family Tree
+===================================
+General tree:
+
+- Yuri
+  - Nick
+    - Sergio
+      - Kira
+    - Julia
+    - Vitaliy
+      - Spartak
+  - Michael
+    - Lera
+
+ Converted to Binary tree (levels breadth first):
+
+Level 0 : Yuri
+Level 1 : Nick
+Level 2 : Sergio Michael 
+Level 3 : Kira Julia Lera
+Level 4 : Vitaliy
+Level 5 : Spartak
+
+My father
+Nick
+My niece's father (my older brother)
+Sergio
+My grandfather's sons (my father and uncle)
+['Nick', 'Michael']
+My father's children (my siblings including me)
+['Sergio', 'Julia', 'Vitaliy']
+My siblings
+['Sergio', 'Vitaliy']
+My father's sibling (my uncle)
+['Michael']
+My uncle's oldest sibling (my father)
+Nick
+My youngest sibling
+Vitaliy
+My father's youngest child (my youngest sibling)
+Vitaliy
+Sergio
+['Sergio', 'Julia']
+['Michael']
+[]
+Yuri
+Nick
+
+Family 2
+==================================
+General tree:
+
+- Jones
+  - Bob
+    - Richard
+    - Jake
+      - Bill
+  - Dan
+  - Brian
+    - Michael
+      - Deville
+
+ Converted to Binary tree (levels breadth first):
+
+Level 0 : Jones
+Level 1 : Bob
+Level 2 : Richard Dan
+Level 3 : Jake Brian
+Level 4 : Bill Michael
+Level 5 : Deville
+
+1)      Who is the father of Brian
+Jones
+2)      Who are all the sons of Bob?
+['Richard', 'Jake']
+3)      Who are all the brothers of Jake?
+['Richard']
+4)      Who is the oldest brother of Dan?
+Bob
+5)      Who is the youngest brother of Dan?
+Brian
+6)      Who is the oldest son of Brian?
+Michael
+7)      Who is the youngest son of Jones?
+Brian
+8)      Who are the uncles of Michael?
+['Bob', 'Dan']
+9)      Who is the grandfather of Bill?
+Bob
+
+Family 3
+==================================
+General tree:
+
+- Kate
+  - Bob
+    - Jonathan
+    - Ann
+      - Michael
+        - Sara
+      - Oliver
+        - Gigi
+        - Robert
+    - Miguel
+      - Katalyna
+      - Yuri
+        - Susan
+          - Lisa
+          - Ney
+  - Many
+  - Ocean
+
+ Converted to Binary tree (levels breadth first):
+
+Level 0 : Kate
+Level 1 : Bob
+Level 2 : Jonathan Many
+Level 3 : Ann Ocean
+Level 4 : Michael Miguel
+Level 5 : Sara Oliver Katalyna
+Level 6 : Gigi Yuri
+Level 7 : Robert Susan
+Level 8 : Lisa
+Level 9 : Ney
+
+1)      Who is the parent of Oliver
+Ann
+2)      Who are all the sons of Kate?
+['Bob', 'Many', 'Ocean']
+3)      Who are all the siblings of Jonathan?
+['Ann', 'Miguel']
+4)      Who is the oldest sibling of Yuri?
+Katalyna
+5)      Who is the youngest brother of Many?
+Ocean
+6)      Who is the oldest son of Oliver?
+Gigi
+7)      Who is the youngest son of Susan?
+Ney
+8)      Who are the uncles of Robert?
+['Michael']
+9)      Who is the grandfather of Lisa?
+Yuri

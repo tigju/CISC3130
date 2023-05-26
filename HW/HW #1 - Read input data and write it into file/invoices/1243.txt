@@ -1,0 +1,10 @@
+Damien Darhk        1243
+
+		Previous Balance              $2345.00
+
+0203		Vista     (qty 1) -10%	  $135.0
+0204		Tri-1     (qty 1) -20%	  $160.0
+0201		payment                   $345.00
+0202		payment                   $1000.00
+
+		Balance Due                   $1295.0

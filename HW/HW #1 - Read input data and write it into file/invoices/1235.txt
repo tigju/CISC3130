@@ -1,0 +1,9 @@
+Ray Palmer          1235
+
+		Previous Balance              $500.00
+
+0023		INT-45    (qty 3)		  $150.0
+0025		Tri-1     (qty 1) -20%	  $160.0
+0028		Vista     (qty 3) -10%	  $405.0
+
+		Balance Due                   $1215.0

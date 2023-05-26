@@ -1,0 +1,10 @@
+Oliver Queen        1237
+
+		Previous Balance              $1000.00
+
+0030		payment                   $100.00
+0031		payment                   $100.00
+0032		payment                   $300.00
+0033		payment  +20% ($100.0)	  $500.00
+
+		Balance Due                   $-100.0

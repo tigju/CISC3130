@@ -1,0 +1,9 @@
+Wally West          1236
+
+		Previous Balance              $700.00
+
+0004		INT-45    (qty 5)		  $250.0
+0005		payment                   $350.00
+0006		payment                   $350.00
+
+		Balance Due                   $250.0

@@ -1,0 +1,11 @@
+Kara Denvers        1239
+
+		Previous Balance              $250.00
+
+0020		Vista     (qty 5) -10%	  $675.0
+0021		TU-200    (qty 1)		  $300.0
+0022		Tri-1     (qty 2) -20%	  $320.0
+0024		GH-2      (qty 1)		  $750.0
+0026		payment                   $250.00
+
+		Balance Due                   $2045.0
